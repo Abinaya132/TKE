@@ -1,8 +1,8 @@
 
 # Download recent files from Graph API to temp location
 
-A few sample reference links [https://learn.microsoft.com/en-us/graph/graph-explorer/graph-explorer-overview?view=graph-rest-1.0]
-[https://learn.microsoft.com/en-us/onedrive/developer/rest-api/resources/site?view=odsp-graph-online]
+- [Graph Introduction](https://learn.microsoft.com/en-us/graph/graph-explorer/graph-explorer-overview?view=graph-rest-1.0)
+- [Sites Introduction](https://learn.microsoft.com/en-us/onedrive/developer/rest-api/resources/site?view=odsp-graph-online)
 
 ## Step 1 
 - get SITE ID of Site where the folder  you want to track is present 
